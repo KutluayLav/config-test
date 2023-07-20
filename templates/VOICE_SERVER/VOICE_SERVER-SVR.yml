@@ -21,7 +21,7 @@ alcatelAgentActivityMonitorReportIntervalInMinutes:
 alcatelAgentCallHistoryBufferSize:
   configValueCount: "SINGLE"
   configValueType: "LONG"
-  displayName: "Alcatel-Lucent Agent Call History BufferSize"
+  displayName: "Alcatel-Lucent Agent Call History BufferSizes"
   description: "AgentContext Log, Call History size in seconds, Not Logged"
   sectionName: "Alcatel-Lucent"
   encrypted: false
