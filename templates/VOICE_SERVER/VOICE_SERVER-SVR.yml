@@ -22,7 +22,7 @@ alcatelAgentCallHistoryBufferSize:
   configValueCount: "SINGLE"
   configValueType: "LONG"
   displayName: "Alcatel-Lucent Agent Call History BufferSizes"
-  description: "AgentContext Log, Call History size in seconds, Not Logged"
+  description: "AgentContext Log, Call History size in seconds, Not Loggedlav"
   sectionName: "Alcatel-Lucent"
   encrypted: false
   rule: null
